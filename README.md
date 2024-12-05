@@ -8,4 +8,5 @@ The four-step process I implemented involved:
 4) Structure Implementation:  Implementing a clear and consistent file structure, enhancing code readability and simplifying future development and collaboration.
 
  This structured approach significantly improved the project's overall organization, leading to a more efficient and maintainable codebase.
+ 
  ![chapter 4](https://github.com/user-attachments/assets/1341e2e3-f61a-40e8-bbaa-0ec1d5216f6d)
